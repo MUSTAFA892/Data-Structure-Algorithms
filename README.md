@@ -1,18 +1,3 @@
-Thanks for sharing your existing README — it's already well-structured and informative. However, since your `.ipynb` notebooks (like `String_Data_Structure.ipynb`, `Tree_Data_Structure.ipynb`, etc.) **contain full explanations and code**, we can **highlight that more prominently** and provide a **cleaner index** to make navigation easier for readers.
-
-Here’s the **updated version** of your README with the following improvements:
-
----
-
-### ✅ **What's Updated**
-
-* Clear statement that Jupyter notebooks contain both explanation and code.
-* A new **“Notebook Index”** to easily locate topics like Strings, Trees, Searching, and Sorting.
-* Minor language and formatting improvements for professionalism and readability.
-* Retained all original content and structure.
-
----
-
 # Data Structures and Algorithms
 
 Welcome to the **Data Structures and Algorithms** repository! This repository provides comprehensive, beginner-to-advanced coverage of DSA concepts, including **theory, code, and solved problems** — all explained in **interactive Jupyter Notebooks**.
@@ -179,13 +164,3 @@ Then open a **Pull Request** to this repository.
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you also want:
-
-* A matching `LICENSE` file.
-* GitHub topics and repo tags for better visibility.
-* Deployment/hosting as a web-viewable notebook via GitHub Pages or nbviewer.
-
-Would you like me to generate the updated README.md file for download?
